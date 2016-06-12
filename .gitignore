@@ -1,1 +1,7 @@
 *.exe
+/.vs/winfstest/v14
+/src/fsx/*.obj
+/*.db
+/src/fsx/x64/Release/*.log
+/*.opendb
+/src/fsx/*.user

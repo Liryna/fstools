@@ -8,7 +8,6 @@ Prerequisites:
 * Windows 10 SDK 
 
 To run:
-* Open VS Command Prompt
+* Build the fsx.exe x64 with VS
 * cd src\fsx
-* nmake -f Nmakefile
 * .\fsx.exe -N 5000 C:\test
